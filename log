@@ -1,0 +1,7 @@
+geoclue-2.0 hplip kcalc kinfocenter krdc ksysguard ksysguardd ktorrent kubuntu-desktop libc-dev-bin libc6-dev
+  libcurl4 libfluidsynth1 libgcc-8-dev libhpmud0 libisl19 libkf5sane5 libktorrent-l10n libktorrent6 libmpc3
+  libmpfr6 libmpx2 libnm0 libopenconnect5 libqalculate20 libreoffice-draw libreoffice-impress libsane-hpaio
+  libsasl2-modules libstdc++-8-dev libvncclient1 linux-libc-dev mesa-vdpau-drivers mpd mplayer network-manager
+  network-manager-pptp plasma-desktop plasma-nm plasma-vault plasma-widgets-addons plasma-workspace
+  printer-driver-hpcups sane-utils sddm-theme-breeze skanlite ubuntu-standard udis86:i386 vdpau-driver-all
+  x11-session-utils x11-xserver-utils xorg xserver-xorg-video-intel
